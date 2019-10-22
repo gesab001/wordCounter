@@ -1,9 +1,10 @@
 import json
 
+
 jsonFile = open("bibleBooks.json", "r")
 booksdata = json.load(jsonFile)
-bookName = "Revelation"
-chapterNumber = 12
+bookName =  input("book: " )
+chapterNumber = int(input("chapter: "))
 book = booksdata[bookName]
 chapter = book[chapterNumber-1][str(chapterNumber)]
 print(chapter)
