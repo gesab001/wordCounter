@@ -12,10 +12,18 @@ string = " ".join(chapter)
 dict = {}
 array = string.split(" ")
 for word in array:
-  if not word in dict:
-    dict[word]= 1
-  else:
-    dict[word]+= 1
+  word = word.replace(",", "")
+  word = word.replace("[", "")
+  word = word.replace("]", "")
+  word = word.replace("!", "")
+  word = word.replace(".", "")
+  word = word.replace(";", "")
+  word = word.replace(":", "")
+  if len(word)!=0:
+   if not word in dict:
+     dict[word]= 1
+   else:
+     dict[word]+= 1
 s = [(k, dict[k]) for k in sorted(dict, key=dict.get, reverse=True)]
 new = open("result.txt", "w")
 new.write("")
