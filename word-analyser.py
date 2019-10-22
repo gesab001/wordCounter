@@ -33,4 +33,6 @@ f = open("result.txt", "a")
 for k,v in s:
      string = k + ": " + str(v) + "\n"
      f.write(string)
+totalWords = len(s)
+f.write("\ntotal words: " + str(totalWords))
 f.close()
