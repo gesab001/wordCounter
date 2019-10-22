@@ -16,10 +16,9 @@ for word in array:
   word = word.replace("[", "")
   word = word.replace("]", "")
   word = word.replace("!", "")
-  word = word.replace(".", "")
   word = word.replace(";", "")
   word = word.replace(":", "")
-  if len(word)!=0:
+  if word!="":
    if not word in dict:
      dict[word]= 1
    else:
