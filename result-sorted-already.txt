@@ -1,0 +1,861 @@
+
+
+a: 38
+
+able: 1
+
+accused: 1
+
+accuser: 1
+
+after: 2
+
+against: 2
+
+all: 7
+
+also: 1
+
+altar: 1
+
+among: 1
+
+an: 3
+
+and: 105
+
+and: 47
+
+angel: 7
+
+angels: 4
+
+another: 7
+
+any: 3
+
+appeared: 2
+
+are: 8
+
+as: 12
+
+ascendeth: 1
+
+authority: 1
+
+away: 1
+
+babylon: 1
+
+be: 6
+
+bear: 1
+
+beast: 17
+
+beast?: 1
+
+beasts: 1
+
+because: 2
+
+before: 6
+
+beheld: 1
+
+behold: 2
+
+being: 2
+
+birth: 1
+
+blaspheme: 1
+
+blasphemies: 1
+
+blasphemy: 2
+
+blessed: 1
+
+blood: 2
+
+bond: 1
+
+book: 1
+
+born: 1
+
+both: 2
+
+brethren: 1
+
+bridles: 1
+
+brimstone: 1
+
+brought: 2
+
+but: 2
+
+buy: 1
+
+by: 5
+
+called: 1
+
+came: 4
+
+captivity: 2
+
+carried: 1
+
+cast: 9
+
+caught: 1
+
+cause: 2
+
+causeth: 2
+
+child: 5
+
+christ: 2
+
+city: 2
+
+clothed: 1
+
+cloud: 4
+
+clusters: 1
+
+come: 5
+
+coming: 1
+
+commandments: 2
+
+continue: 1
+
+could: 1
+
+count: 1
+
+cried: 2
+
+crown: 2
+
+crowns: 2
+
+cry: 1
+
+crying: 1
+
+cup: 1
+
+day: 2
+
+days: 1
+
+dead: 1
+
+deadly: 2
+
+death: 2
+
+deceiveth: 2
+
+defiled: 1
+
+delivered: 2
+
+devil: 1
+
+devil: 1
+
+devour: 1
+
+did: 2
+
+die: 1
+
+do: 2
+
+doeth: 1
+
+down: 3
+
+dragon: 11
+
+drew: 1
+
+drink: 2
+
+dwell: 7
+
+eagle: 1
+
+ear: 1
+
+earth: 21
+
+elders: 1
+
+even: 1
+
+ever: 2
+
+everlasting: 1
+
+every: 1
+
+exerciseth: 1
+
+face: 1
+
+faith: 2
+
+fallen: 2
+
+father's: 1
+
+fault: 1
+
+fear: 1
+
+feed: 1
+
+feet: 3
+
+fire: 3
+
+first: 2
+
+firstfruits: 1
+
+fled: 1
+
+flood: 3
+
+fly: 2
+
+follow: 2
+
+followed: 2
+
+for: 13
+
+forehead: 1
+
+foreheads: 2
+
+fornication: 1
+
+forth: 2
+
+forty: 3
+
+fought: 2
+
+found: 2
+
+foundation: 1
+
+fountains: 1
+
+four: 3
+
+free: 1
+
+from: 10
+
+fully: 1
+
+furlongs: 1
+
+gather: 1
+
+gathered: 1
+
+gave: 2
+
+give: 2
+
+given: 5
+
+glory: 1
+
+go: 1
+
+god: 12
+
+goeth: 1
+
+golden: 1
+
+gospel: 1
+
+grapes: 1
+
+great: 12
+
+guile: 1
+
+had: 7
+
+half: 1
+
+hand: 3
+
+harpers: 1
+
+harping: 1
+
+harps: 1
+
+harvest: 1
+
+hath: 3
+
+have: 3
+
+having: 7
+
+he: 1
+
+he: 21
+
+head: 2
+
+heads: 5
+
+healed: 2
+
+hear: 1
+
+heard: 4
+
+heaven: 13
+
+heavens: 1
+
+helped: 1
+
+henceforth: 1
+
+her: 11
+
+here: 1
+
+here: 3
+
+him: 16
+
+him?: 1
+
+his: 35
+
+holy: 1
+
+horns: 4
+
+horse: 1
+
+hour: 1
+
+hundred: 5
+
+i: 11
+
+if: 2
+
+image: 6
+
+in: 28
+
+indignation: 1
+
+inhabiters: 1
+
+into: 9
+
+iron: 1
+
+is: 18
+
+it: 6
+
+jesus: 2
+
+judgment: 1
+
+keep: 2
+
+killed: 2
+
+killeth: 1
+
+kindred: 1
+
+kindreds: 1
+
+kingdom: 1
+
+knoweth: 1
+
+labours: 1
+
+lamb: 1
+
+lamb: 6
+
+leadeth: 1
+
+learn: 1
+
+leopard: 1
+
+let: 1
+
+let: 1
+
+life: 2
+
+like: 4
+
+lion: 1
+
+live: 1
+
+lives: 1
+
+lo: 1
+
+looked: 2
+
+lord: 1
+
+loud: 5
+
+loved: 1
+
+made: 2
+
+make: 4
+
+maketh: 1
+
+man: 8
+
+many: 2
+
+mark: 4
+
+may: 1
+
+me: 1
+
+means: 1
+
+men: 2
+
+michael: 1
+
+midst: 1
+
+might: 3
+
+miracles: 1
+
+mixture: 1
+
+months: 1
+
+moon: 1
+
+more: 1
+
+mount: 1
+
+mouth: 8
+
+must: 1
+
+name: 6
+
+names: 1
+
+nation: 1
+
+nations: 3
+
+neither: 1
+
+new: 1
+
+night: 2
+
+no: 4
+
+nor: 1
+
+not: 5
+
+nourished: 1
+
+now: 1
+
+number: 4
+
+of: 74
+
+old: 1
+
+on: 9
+
+one: 2
+
+opened: 2
+
+or: 5
+
+our: 3
+
+out: 12
+
+over: 2
+
+overcame: 1
+
+overcome: 1
+
+pained: 1
+
+part: 1
+
+patience: 2
+
+people: 1
+
+persecuted: 1
+
+place: 3
+
+poor: 1
+
+poured: 1
+
+power: 9
+
+preach: 1
+
+prepared: 1
+
+presence: 2
+
+prevailed: 1
+
+ready: 1
+
+reap: 2
+
+reaped: 1
+
+receive: 2
+
+receiveth: 1
+
+red: 1
+
+redeemed: 2
+
+rejoice: 1
+
+remnant: 1
+
+rest: 2
+
+rich: 1
+
+right: 1
+
+ripe: 2
+
+rise: 1
+
+rod: 1
+
+rule: 1
+
+saints: 3
+
+saith: 1
+
+salvation: 1
+
+same: 1
+
+sand: 1
+
+sat: 3
+
+satan: 1
+
+save: 1
+
+saw: 5
+
+saying: 1
+
+saying: 7
+
+sea: 4
+
+seat: 1
+
+seed: 1
+
+sell: 1
+
+serpent: 3
+
+seven: 3
+
+shall: 4
+
+sharp: 4
+
+she: 6
+
+short: 1
+
+should: 4
+
+sickle: 7
+
+sight: 2
+
+sion: 1
+
+six: 1
+
+six: 2
+
+slain: 1
+
+small: 1
+
+smoke: 1
+
+so: 1
+
+son: 1
+
+song: 2
+
+soon: 1
+
+space: 1
+
+spake: 1
+
+speak: 1
+
+speaking: 1
+
+spirit: 1
+
+stars: 2
+
+stood: 3
+
+strength: 1
+
+sun: 1
+
+sung: 1
+
+swallowed: 1
+
+sword: 3
+
+tabernacle: 1
+
+tail: 1
+
+temple: 2
+
+ten: 3
+
+testimony: 2
+
+that: 29
+
+the: 1
+
+the: 166
+
+thee: 1
+
+their: 11
+
+them: 11
+
+there: 6
+
+therefore: 1
+
+therein: 1
+
+these: 3
+
+they: 14
+
+things: 1
+
+third: 2
+
+those: 1
+
+thousand: 4
+
+threescore: 2
+
+throne: 3
+
+thrust: 2
+
+thrust: 2
+
+thunder: 1
+
+thy: 2
+
+time: 4
+
+times: 1
+
+to: 29
+
+tongue: 1
+
+tongues: 1
+
+torment: 1
+
+tormented: 1
+
+total words: 429
+
+travailing: 1
+
+trodden: 1
+
+twelve: 1
+
+two: 4
+
+under: 1
+
+understanding: 1
+
+unto: 16
+
+up: 5
+
+upon: 7
+
+vine: 2
+
+virgins: 1
+
+voice: 9
+
+war: 4
+
+was: 20
+
+water: 1
+
+waters: 2
+
+went: 1
+
+were: 8
+
+when: 1
+
+where: 2
+
+which: 18
+
+white: 1
+
+whithersoever: 1
+
+who: 1
+
+who: 3
+
+whole: 1
+
+whose: 2
+
+whosoever: 1
+
+wilderness: 2
+
+wine: 2
+
+winepress: 3
+
+wings: 1
+
+wisdom: 1
+
+with: 18
+
+without: 3
+
+woe: 1
+
+woman: 8
+
+women: 1
+
+wonder: 2
+
+wondered: 1
+
+wonders: 1
+
+word: 1
+
+works: 1
+
+world: 3
+
+worship: 6
+
+worshipped: 2
+
+would: 1
+
+wound: 3
+
+wounded: 1
+
+wrath: 4
+
+write: 1
+
+written: 2
+
+wroth: 1
+
+ye: 2
+
+yea: 1
+
+you: 1

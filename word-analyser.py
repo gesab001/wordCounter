@@ -34,9 +34,25 @@ new.write("")
 new.close()
 f = open("result.txt", "a")
 
+newwords = []
+fj = open("oldwords.json")
+string = fj.read()
+json_data = json.loads(string)
+fj.close()
 for k,v in s:
-     string = k + ": " + str(v) + "\n"
-     f.write(string)
-totalWords = len(s)
-f.write("\ntotal words: " + str(totalWords))
+    if k in json_data:
+      print("already learned")
+      json_data[k] = json_data[k] + v
+    else:  
+      json_data[k] = v
+      string = k + ": " + str(v) + "\n"
+      f.write(string)
+      newwords.append(k)
+
+f.write("\ntotal words: " + str(len(newwords)))
 f.close()
+
+with open("oldwords.json", "w") as outfile:
+  json.dump(json_data, outfile)
+
+  
