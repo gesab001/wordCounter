@@ -29,10 +29,11 @@ for x in range(totalChapters):
 	     dict[word]+= 1
 	chapterNumber = chapterNumber + 1
 s = [(k, dict[k]) for k in sorted(dict, key=dict.get, reverse=True)]
-new = open("result.txt", "w")
+result_filename = bookName + str(chapterNumber) + "-" + str(chapterNumber+totalChapters-1) + ".txt"
+new = open(result_filename, "w")
 new.write("")
 new.close()
-f = open("result.txt", "a")
+f = open(result_filename, "a")
 
 newwords = []
 fj = open("oldwords.json")
