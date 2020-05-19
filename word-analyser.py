@@ -6,6 +6,7 @@ booksdata = json.load(jsonFile)
 bookName =  input("book: " ).strip()
 chapterNumber = int(input("from chapter: ").strip())
 totalChapters = int(input("total chapters: ").strip())
+result_filename = bookName + str(chapterNumber) + "-" + str(totalChapters)  + ".txt"
 book = booksdata[bookName]
 dict = {}
 
@@ -29,7 +30,7 @@ for x in range(totalChapters):
 	     dict[word]+= 1
 	chapterNumber = chapterNumber + 1
 s = [(k, dict[k]) for k in sorted(dict, key=dict.get, reverse=True)]
-result_filename = bookName + str(chapterNumber) + "-" + str(chapterNumber+totalChapters-1) + ".txt"
+#result_filename = bookName + str(chapterNumber) + "-" + str(chapterNumber+totalChapters-1) + ".txt"
 new = open(result_filename, "w")
 new.write("")
 new.close()
