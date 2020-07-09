@@ -6,8 +6,9 @@ jsondata = json.load(f)
 words = jsondata["items"]
 f.close()
 print("total: " +  str(len(words)))
+count = 1
 for x in words:
-   print(x)
+   print(str(count)+". "+ x[:-3])
    print("\n\n\n")
    next = input()
    if next=="y":
@@ -16,3 +17,4 @@ for x in words:
          result = {"items": words}          
          json.dump(result, outfile)  
    print("\n\n\n")
+   count = count + 1
