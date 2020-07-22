@@ -1,0 +1,12 @@
+gourd: 4
+Doest: 2
+sleeper?: 1
+fish's: 1
+weeds: 1
+bottoms: 1
+vomited: 1
+repentest: 1
+wished: 1
+gourd?: 1
+
+total words: 10

@@ -1,0 +1,6 @@
+Josedech: 5
+earneth: 2
+holy?: 1
+pressfat: 1
+
+total words: 4

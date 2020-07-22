@@ -1,0 +1,24 @@
+riot: 1
+selfwilled: 1
+convince: 1
+gainsayers: 1
+lucre's: 1
+Cretians: 1
+bellies: 1
+Jewish: 1
+uncorruptness: 1
+Sound: 1
+Exhort: 1
+purloining: 1
+fidelity: 1
+worldly: 1
+Looking: 1
+brawlers: 1
+heretick: 1
+subverted: 1
+Artemas: 1
+Nicopolis: 1
+Zenas: 1
+uses: 1
+
+total words: 22

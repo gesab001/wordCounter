@@ -1,0 +1,19 @@
+allowed: 1
+gentle: 1
+affectionately: 1
+holily: 1
+unblameably: 1
+Forbidding: 1
+rejoicing?: 1
+fellowlabourer: 1
+forewarned: 1
+archangel: 1
+work's: 1
+unruly: 1
+feebleminded: 1
+Quench: 1
+Despise: 1
+prophesyings: 1
+Abstain: 1
+
+total words: 17

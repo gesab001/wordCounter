@@ -1,0 +1,9 @@
+Jude: 1
+crept: 1
+contending: 1
+Core: 1
+Raging: 1
+murmurers: 1
+complainers: 1
+
+total words: 7

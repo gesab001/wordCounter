@@ -1,0 +1,30 @@
+plantings: 1
+hires: 1
+Aphrah: 1
+Saphir: 1
+Zaanan: 1
+Beth-ezel: 1
+Maroth: 1
+Moresheth-gath: 1
+haughtily: 1
+straitened?: 1
+doings?: 1
+uprightly?: 1
+averse: 1
+breaker: 1
+chop: 1
+halteth: 1
+aloud?: 1
+entrances: 1
+oil?: 1
+scant: 1
+abominable?: 1
+weights?: 1
+grapegleanings: 1
+sharper: 1
+dishonoureth: 1
+solitarily: 1
+pardoneth: 1
+heritage?: 1
+
+total words: 28

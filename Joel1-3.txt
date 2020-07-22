@@ -1,0 +1,23 @@
+cankerworm: 3
+palmerworm: 2
+fats: 2
+decision: 2
+Pethuel: 1
+drinkers: 1
+barked: 1
+Lament: 1
+gloominess: 1
+Spare: 1
+moderately: 1
+floors: 1
+wondrously: 1
+boy: 1
+girl: 1
+Palestine?: 1
+recompence?: 1
+Grecians: 1
+Beat: 1
+wakened: 1
+Multitudes: 1
+
+total words: 21

@@ -1,0 +1,33 @@
+adorning: 2
+railing: 2
+Elect: 1
+Receiving: 1
+Searching: 1
+fashioning: 1
+foreordained: 1
+hypocrisies: 1
+envies: 1
+speakings: 1
+newborn: 1
+supreme: 1
+using: 1
+thankworthy: 1
+patiently?: 1
+Bishop: 1
+plaiting: 1
+courteous: 1
+rendering: 1
+eschew: 1
+ensue: 1
+authorities: 1
+banquetings: 1
+idolatries: 1
+Use: 1
+grudging: 1
+Beloved: 1
+busybody: 1
+appear?: 1
+constraint: 1
+elected: 1
+
+total words: 31

@@ -1,0 +1,8 @@
+(how: 1
+off): 1
+enough?: 1
+foreigners: 1
+crossway: 1
+Sepharad: 1
+
+total words: 6

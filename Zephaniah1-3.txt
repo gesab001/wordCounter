@@ -1,0 +1,16 @@
+Hizkiah: 1
+Chemarims: 1
+crashing: 1
+Maktesh: 1
+candles: 1
+wasteness: 1
+speedy: 1
+cottages: 1
+breeding: 1
+saltpits: 1
+lintels: 1
+gnaw: 1
+determination: 1
+suppliants: 1
+
+total words: 14

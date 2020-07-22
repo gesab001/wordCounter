@@ -1,0 +1,11 @@
+antichrist: 3
+advocate: 1
+antichrists: 1
+unction: 1
+(but): 1
+acknowledgeth: 1
+world's: 1
+assure: 1
+seen?: 1
+
+total words: 9

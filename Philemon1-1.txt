@@ -1,0 +1,9 @@
+Philemon: 1
+Apphia: 1
+fellowsoldier: 1
+enjoin: 1
+love's: 1
+oweth: 1
+Lucas: 1
+
+total words: 7

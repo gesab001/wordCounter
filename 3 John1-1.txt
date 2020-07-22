@@ -1,0 +1,6 @@
+fellowhelpers: 1
+Diotrephes: 1
+malicious: 1
+forbiddeth: 1
+
+total words: 4

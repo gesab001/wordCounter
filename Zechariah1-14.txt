@@ -1,0 +1,33 @@
+BRANCH: 2
+Beauty: 2
+Bands: 2
+Sebat: 1
+ho: 1
+brand: 1
+waked: 1
+headstone: 1
+shoutings: 1
+resemblance: 1
+ephah?: 1
+Hen: 1
+Sherezer: 1
+Regem-melech: 1
+separating: 1
+plain?: 1
+girls: 1
+Hadrach: 1
+heaped: 1
+Greece: 1
+possessors: 1
+prised: 1
+brotherhood: 1
+burdensome: 1
+torch: 1
+Hadadrimmon: 1
+Megiddon: 1
+refine: 1
+rifled: 1
+Azal: 1
+UNTO: 1
+
+total words: 31

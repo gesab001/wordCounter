@@ -1,0 +1,31 @@
+furtherance: 2
+Epaphroditus: 2
+bishops: 1
+deacons: 1
+confirmation: 1
+sincere: 1
+waxing: 1
+striving: 1
+conflict: 1
+vainglory: 1
+disputings: 1
+Holding: 1
+naturally: 1
+concision: 1
+Circumcised: 1
+persecuting: 1
+conformable: 1
+forgetting: 1
+prize: 1
+ensample: 1
+Euodias: 1
+Syntyche: 1
+yokefellow: 1
+Clement: 1
+fellowlabourers: 1
+moderation: 1
+requests: 1
+Philippians: 1
+wellpleasing: 1
+
+total words: 29
