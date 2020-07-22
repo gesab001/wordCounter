@@ -1,12 +1,18 @@
 import json
+import addtovocabularymodule as add
 
 
 jsonFile = open("bibleBooks.json", "r")
 booksdata = json.load(jsonFile)
+booklist = list(booksdata.keys())
+keystodelete = ["1 Samuel", "2 Samuel", "Daniel", "Deuteronomy", "Exodus", "Genesis", "Judges", "John", "Joshua", "Leviticus", "Luke", "Mark", "Matthew", "Numbers", "Psalms", "Revelation", "Ruth"]
+for key in keystodelete:
+   booklist.remove(key)
+print(booklist)
 bookName =  input("book: " ).strip()
 chapterNumber = int(input("from chapter: ").strip())
-totalChapters = int(input("total chapters: ").strip())
-result_filename = bookName + str(chapterNumber) + "-" + str(totalChapters)  + ".txt"
+totalChapters = len(booksdata[bookName])
+result_filename = bookName + str(chapterNumber) + "-" + str(totalChapters+chapterNumber-1)  + ".txt"
 book = booksdata[bookName]
 dict = {}
 
@@ -57,4 +63,7 @@ f.close()
 with open("oldwords.json", "w") as outfile:
   json.dump(json_data, outfile)
 
-  
+add.converToJson(result_filename)  
+jsonfilename = result_filename[:-4] + ".json"
+print(jsonfilename)
+add.addGroup(jsonfilename)
