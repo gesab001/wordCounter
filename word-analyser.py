@@ -6,11 +6,12 @@ jsonFile = open("bibleBooks.json", "r")
 booksdata = json.load(jsonFile)
 booklist = list(booksdata.keys())
 keystodelete = ["1 Samuel", "2 Samuel", "Daniel", "Deuteronomy", "Exodus", "Genesis", "Judges", "John", "Joshua", "Leviticus", "Luke", "Mark", "Matthew", "Numbers", "Psalms", "Revelation", "Ruth"]
+bookstoinclude = ["Daniel"]
 for key in keystodelete:
    booklist.remove(key)
 print(booklist)
 
-for bookName in booklist:
+for bookName in bookstoinclude:
     chapterNumber = 1
     totalChapters = len(booksdata[bookName])
     result_filename = bookName + str(chapterNumber) + "-" + str(totalChapters+chapterNumber-1)  + ".txt"

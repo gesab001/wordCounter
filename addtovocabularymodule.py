@@ -2,12 +2,12 @@ import json
 
 
 def save(data):
-  f = open("vocabulary.json")
+  f = open("vocabulary1.json")
   string = f.read()
   jsondata = json.loads(string)
   f.close()
   jsondata["items"].append(data)
-  with open("vocabulary.json", "w") as outfile:
+  with open("vocabulary1.json", "w") as outfile:
      json.dump(jsondata, outfile, indent=4)
 
 def converToJson(filename):
